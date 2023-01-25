@@ -1,11 +1,12 @@
 import React from "react";
 import "./index.css";
 
+//nav header
 const header = () => {
   return (
     <div className="header">
       <div className="header__menu">
-        <p className="header__menu__text">{"conduit"}</p>
+        <p className="header__menu__text">{"condut"}</p>
       </div>
       <div>
         <ul className="header__ul">
